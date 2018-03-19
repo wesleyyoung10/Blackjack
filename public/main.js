@@ -122,7 +122,7 @@ function start() {
 
   shuffle();
 
-  createPlayers(2);
+  createPlayers(3);
 
   createPlayersUI();
 
